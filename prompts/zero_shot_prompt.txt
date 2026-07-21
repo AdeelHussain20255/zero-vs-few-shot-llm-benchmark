@@ -1,0 +1,13 @@
+Classify each of the following 10 customer messages into exactly ONE category: "Complaint", "Question", or "Praise". Output ONLY the message number and the label.
+
+Messages:
+1. Your support agent Alex was amazingly patient while trying to help me for 3 hours, even though the software bug completely destroyed our monthly financial report.
+2. If you guys ever manage to fix the lag when opening large files, this would easily be the best tool on the market.
+3. Just updating you that our accounting team has flagged your auto-renewal invoice due to recurring billing discrepancies.
+4. Can someone tell me where I can send a physical thank-you gift to the dev team for shipping the offline mode update?
+5. I appreciate the detailed explanation of why my refund request was rejected according to section 4.2 of your terms.
+6. I love how seamless the migration process was when I moved all my data from your platform over to Notion today.
+7. Shoutout to the entire engineering team for giving us an unexpected long weekend by taking the entire production server down on Friday afternoon!
+8. I was wondering if there is a setting to stop the app from overwriting my local backups without asking, or if that's just a permanent feature?
+9. Is there any upper limit on how many user accounts I can add, because our company is expanding rapidly and we want to move our entire 500-person team onto your enterprise plan!
+10. Did you guys hire high school interns to design the new checkout flow, or are you actively trying to reduce your conversion rates?
