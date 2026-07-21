@@ -8,7 +8,7 @@ An empirical benchmarking study comparing **Zero-Shot** and **Few-Shot** prompti
 
 Explore the complete benchmark evaluation runs and interactive transcripts directly on each model:
 
-* 🤖 **Claude 3.5 Run:** [View Claude Transcript](https://claude.ai/share/8f3d0367-64a5-49b5-9447-102f982b53ae)
+* 🤖 **Claude Run:** [View Claude Transcript](https://claude.ai/share/8f3d0367-64a5-49b5-9447-102f982b53ae)
 * ♊ **Gemini Run:** [View Gemini Transcript](https://share.gemini.google/ht3rf1M1KfKs)
 * 🟢 **ChatGPT Run:** [View ChatGPT Transcript](https://chatgpt.com/share/6a5f6289-b7e0-83e8-bdf0-7f324c7d9f7e)
 
